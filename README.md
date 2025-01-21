@@ -24,6 +24,7 @@ What is the distribution of employees across locations by state?
 How has the company's employee count changed over time based on hire and term dates?
 What is the tenure distribution for each department?
 
+
 ## Summary of Findings
 There are more male employees
 White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
@@ -36,6 +37,7 @@ The Marketing department has the highest turnover rate followed by Training. The
 A large number of employees come from the state of Ohio.
 The net change in employees has increased over the years.
 The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+
 
 ## Limitations
 Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
